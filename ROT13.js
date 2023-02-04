@@ -17,4 +17,4 @@ function rot13(str) {
     return decodedStr;
 }
 
-rot13('EBG13 rknzcyr.');
+console.log(rot13("EBG13 - Va gur ryringbef, gur rkgebireg ybbxf ng gur BGURE thl'f fubrf."));
